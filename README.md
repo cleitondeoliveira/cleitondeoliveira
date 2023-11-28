@@ -1,6 +1,6 @@
 Olá, meu nome é <b>Cleiton!</b> 😄
 
-Pseudo programador backend 🖥
+Sou engenheiro DevOps com conhecimentos em SRE. 🖥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleitondeoliveira&show_icons=true&theme=tokyonight)
 
