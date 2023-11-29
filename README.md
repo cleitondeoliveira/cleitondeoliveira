@@ -1,6 +1,6 @@
-Olá, meu nome é <b>Cleiton!</b> 😄
+Hi, i'm <b>Cleiton!</b> 😄
 
-Sou engenheiro DevOps com conhecimentos em SRE. 🖥
+I'm the computer guy. 🖥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleitondeoliveira&show_icons=true&theme=tokyonight)
 
