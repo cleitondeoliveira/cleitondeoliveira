@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+%26+Infrastructure+Specialist;Microservices+Architect;Linux+%26+Networking+Expert+%F0%9F%9A%80)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+%26+Infrastructure;Microservices;Linux+%26+Networking+%F0%9F%9A%80)
   
 </div>
 
