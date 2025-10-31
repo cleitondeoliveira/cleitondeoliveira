@@ -6,14 +6,14 @@
   
 </div>
 
-## 🚀 About Me
+## About Me
 
 DevOps Engineer specialized in cloud infrastructure, microservices, and automation. Passionate about building scalable, resilient, and secure environments. Transforming ideas into robust solutions through modern DevOps practices.
 
-- 🔭 Currently working with **Kubernetes / AWS / Azure**
-- 🌱 Improving skills in **GitOps / Service Mesh / FinOps**
-- 💬 Ask me about **Kubernetes, Docker, CI/CD, Terraform, Cloud Architecture**
-- 📍 Based in **Vitória da Conquista, Bahia, Brazil**
+- Currently working with **Kubernetes / AWS / Azure**
+- Improving skills in **GitOps / Service Mesh / FinOps**
+- Ask me about **Kubernetes, Docker, CI/CD, Terraform, Cloud Architecture**
+- Based in **Vitória da Conquista, Bahia, Brazil**
 
 ## 🛠️ Tech Stack
 
@@ -78,17 +78,6 @@ DevOps Engineer specialized in cloud infrastructure, microservices, and automati
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleitondeoliveira&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitondeoliveira&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cleitondeoliveira&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
 
 ## 📫 Connect With Me
 
@@ -98,20 +87,6 @@ DevOps Engineer specialized in cloud infrastructure, microservices, and automati
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleitondeoliveira3@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5577998007899)
 
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 DevOps Quote
-  
-  *"You build it, you run it!"* - Werner Vogels, Amazon CTO
-  
-  ### 👀 Profile Views
-  
-  ![Visitor Count](https://profile-counter.glitch.me/cleitondeoliveira/count.svg)
-  
 </div>
 
 ---
