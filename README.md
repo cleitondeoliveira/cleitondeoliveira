@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Cleiton de Oliveira!
+# 󰩑 Olá, eu sou Cleiton de Oliveira!
 
 <div align="center">
   
@@ -22,7 +22,6 @@ DevOps Engineer especializado em infraestrutura cloud, microsserviços e automa�
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,20 +34,20 @@ DevOps Engineer especializado em infraestrutura cloud, microsserviços e automa�
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+
 
 ### 📦 Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
+
 
 ### 🐧 Operating Systems & Servers
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -69,7 +68,6 @@ DevOps Engineer especializado em infraestrutura cloud, microsserviços e automa�
 ![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ### 💻 Languages & Scripting
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -81,39 +79,8 @@ DevOps Engineer especializado em infraestrutura cloud, microsserviços e automa�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-## 🏗️ Áreas de Expertise
-
-```yaml
-DevOps Practices:
-  - Continuous Integration/Continuous Deployment (CI/CD)
-  - Infrastructure as Code (IaC)
-  - Configuration Management
-  - GitOps Workflows
-  - Container Orchestration
-
-Cloud Architecture:
-  - Multi-cloud Strategy
-  - High Availability & Disaster Recovery
-  - Cost Optimization
-  - Security & Compliance
-  - Serverless Architecture
-
-Microservices:
-  - Service Mesh Implementation
-  - API Gateway Management
-  - Distributed Tracing
-  - Service Discovery
-  - Load Balancing
-
-Infrastructure:
-  - Network Architecture & Design
-  - Linux System Administration
-  - Performance Tuning
-  - Automation & Scripting
-  - Security Hardening
-```
 
 ## 📊 Estatísticas do GitHub
 
@@ -210,24 +177,21 @@ DevOps Engineer specialized in cloud infrastructure, microservices, and automati
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
 
 ### 🔄 CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)]
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### 📦 Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-EE0000?style=for-the-badge&logo=bicep&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
 
 ### 🐧 Operating Systems & Servers
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -245,7 +209,6 @@ DevOps Engineer specialized in cloud infrastructure, microservices, and automati
 
 ### 🌐 Networking & Security
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
@@ -260,39 +223,7 @@ DevOps Engineer specialized in cloud infrastructure, microservices, and automati
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-## 🏗️ Areas of Expertise
-
-```yaml
-DevOps Practices:
-  - Continuous Integration/Continuous Deployment (CI/CD)
-  - Infrastructure as Code (IaC)
-  - Configuration Management
-  - GitOps Workflows
-  - Container Orchestration
-
-Cloud Architecture:
-  - Multi-cloud Strategy
-  - High Availability & Disaster Recovery
-  - Cost Optimization
-  - Security & Compliance
-  - Serverless Architecture
-
-Microservices:
-  - Service Mesh Implementation
-  - API Gateway Management
-  - Distributed Tracing
-  - Service Discovery
-  - Load Balancing
-
-Infrastructure:
-  - Network Architecture & Design
-  - Linux System Administration
-  - Performance Tuning
-  - Automation & Scripting
-  - Security Hardening
-```
 
 ## 📊 GitHub Statistics
 
@@ -305,33 +236,6 @@ Infrastructure:
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cleitondeoliveira&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🚀 [Project Name 1]
-**Stack:** Kubernetes | Terraform | AWS | ArgoCD  
-Brief description of infrastructure project
-
-### 🔧 [Project Name 2]
-**Stack:** Docker | Jenkins | Python | Ansible  
-Automated CI/CD pipeline for microservices
-
-### ☁️ [Project Name 3]
-**Stack:** Azure | Helm | Prometheus | Grafana  
-Multi-cloud monitoring platform
-
-</div>
-
-## 📜 Certifications
-
-- 🎓 **AWS Certified Solutions Architect** *(or add your real certifications)*
-- 🎓 **Certified Kubernetes Administrator (CKA)**
-- 🎓 **HashiCorp Certified: Terraform Associate**
-- 🎓 **Linux Professional Institute LPIC-1**
-
-## 📫 Connect With Me
 
 <div align="center">
 
