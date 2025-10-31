@@ -1,4 +1,4 @@
-# 󰩑 Olá, eu sou Cleiton de Oliveira!
+# 👋 Hi, I'm Cleiton de Oliveira!
 
 <div align="center">
   
@@ -6,34 +6,33 @@
   
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-DevOps Engineer especializado em infraestrutura cloud, microsserviços e automação. Apaixonado por construir ambientes escaláveis, resilientes e seguros. Transformo ideias em soluções robustas através de práticas DevOps modernas.
+DevOps Engineer specialized in cloud infrastructure, microservices, and automation. Passionate about building scalable, resilient, and secure environments. Transforming ideas into robust solutions through modern DevOps practices.
 
-- Atualmente trabalhando com **[Kubernetes / AWS / Azure - escolha um]**
-- Aperfeiçoando conhecimentos em **[GitOps / Service Mesh / FinOps - escolha]**
-- Pergunte-me sobre **Kubernetes, Docker, CI/CD, Terraform, Cloud Architecture**
-- Localizado em **Vitória da Conquista, Bahia**
+- 🔭 Currently working with **Kubernetes / AWS / Azure**
+- 🌱 Improving skills in **GitOps / Service Mesh / FinOps**
+- 💬 Ask me about **Kubernetes, Docker, CI/CD, Terraform, Cloud Architecture**
+- 📍 Based in **Vitória da Conquista, Bahia, Brazil**
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 ### ☁️ Cloud Providers
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-###   Containers & Orchestration
+### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
 
-###   CI/CD & Automation
+### 🔄 CI/CD & Automation
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
 
 ### 📦 Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -47,8 +46,7 @@ DevOps Engineer especializado em infraestrutura cloud, microsserviços e automa�
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
-
-### 󰌢  Operating Systems & Servers
+### 🐧 Operating Systems & Servers
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
@@ -74,14 +72,13 @@ DevOps Engineer especializado em infraestrutura cloud, microsserviços e automa�
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-###   Version Control & Collaboration
+### 🔧 Version Control & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -93,14 +90,32 @@ DevOps Engineer especializado em infraestrutura cloud, microsserviços e automa�
 
 </div>
 
-
-## 📫 Como me Encontrar
+## 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cleitondeoliveira3@gmail.com)
-Tel/Whatsapp (+55 7799800-7899)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleitondeoliveira3@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5577998007899)
 
 </div>
 
+---
+
+<div align="center">
+  
+  ### 💭 DevOps Quote
+  
+  *"You build it, you run it!"* - Werner Vogels, Amazon CTO
+  
+  ### 👀 Profile Views
+  
+  ![Visitor Count](https://profile-counter.glitch.me/cleitondeoliveira/count.svg)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
+</div>
